@@ -1,0 +1,11 @@
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\bin\Debug\asal_sayi_tc.exe.config
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\bin\Debug\asal_sayi_tc.exe
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\bin\Debug\asal_sayi_tc.pdb
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\obj\Debug\asal_sayi_tc.csproj.AssemblyReference.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\obj\Debug\asal_sayi_tc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\obj\Debug\asal_sayi_tc.Form1.resources
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\obj\Debug\asal_sayi_tc.Properties.Resources.resources
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\obj\Debug\asal_sayi_tc.csproj.GenerateResource.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\obj\Debug\asal_sayi_tc.csproj.CoreCompileInputs.cache
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\obj\Debug\asal_sayi_tc.exe
+C:\Users\Edanur\Desktop\Nesne Yönelimli Programlama\asal_sayi_tc\asal_sayi_tc\obj\Debug\asal_sayi_tc.pdb
